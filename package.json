@@ -24,8 +24,5 @@
     "jshint": "^2.13.6",
     "jshint-stylish": "^2.2.1",
     "sass": "^1.54.0"
-  },
-  "devDependencies": {
-    "gulp-json-validator": "^1.2.0"
   }
 }
